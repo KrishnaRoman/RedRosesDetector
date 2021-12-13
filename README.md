@@ -163,4 +163,4 @@ deactivate
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for the full license information.
+This project is licensed under the GPL v.3 License. See the LICENSE file for the full license information.
